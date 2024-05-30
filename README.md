@@ -2,7 +2,7 @@
 
 자신만 로봇 부품을 수정하기 위해서 blender를 사용하여 '로보트 태권브이'를 오마주했다.
 
-# 컵 제작
+# 컵 - 제작 과정
 
 1. 실린더를 이용해서 컵 형태를 만들고 색상 적용
 
@@ -17,7 +17,7 @@
    ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/6cff603c-38fb-47c5-b580-545ae9d5d789)
 
 
-# 로봇 제작 과정
+# 로봇 - 제작 과정
 
 1. Add Cone
    
@@ -45,7 +45,7 @@
    ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/581f6bb8-ce30-4e4b-8897-930016bb3521)
 
    
-# 로봇 달리기 동작 적용
+# 로봇 - 달리기 동작 적용
 
 제 1사분면 : 원근투상
 제 2사분면 : 평면도
