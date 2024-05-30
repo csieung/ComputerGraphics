@@ -21,9 +21,10 @@
 4. 디자인 수정
 
    ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/123ebc56-35c3-4503-a017-046975b4d9c3)
+
    로봇의 얼굴을 디자인하는 과정이다. 
 
-5. 최종/ .fbx 파일 export
+6. 최종/ .fbx 파일 export
 
    ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/63ee6efd-2cea-47a6-8bed-7ae8be88d2ac)
    ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/581f6bb8-ce30-4e4b-8897-930016bb3521)
