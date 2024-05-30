@@ -14,7 +14,7 @@
 
 3. 얼굴, 몸 모양 다듬기 : 도형 삭제 + 채우기
 
-  ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/5d8c69ec-d9b2-4280-9a51-fd3d17c01bc6)
+   ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/5d8c69ec-d9b2-4280-9a51-fd3d17c01bc6)
 
    목 주변 불필요한 부분들을 삭제한다. 삭제한 후 비어있는 면을 채워줘야 한다.
    
