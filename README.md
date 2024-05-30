@@ -2,6 +2,20 @@
 
 자신만 로봇 부품을 수정하기 위해서 blender를 사용하여 '로보트 태권브이'를 오마주했다.
 
+# 컵 제작
+
+1. 실린더를 이용해서 컵 형태를 만들고 색상 적용
+
+   ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/3948f427-054c-4a3e-aadd-8583c4a97aaa)
+  
+2. Material 변경
+
+   ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/7202a21f-460b-4c33-98bb-db400733637d)
+
+3. .fbx 파일로 export
+
+   ![image](https://github.com/csieung/ComputerGraphics/assets/72512163/6cff603c-38fb-47c5-b580-545ae9d5d789)
+
 
 # 로봇 제작 과정
 
